@@ -1,0 +1,14 @@
+{
+  "name": "jwt-login-app",
+  "version": "0.0.0",
+  "description": "jwt-login-app",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
