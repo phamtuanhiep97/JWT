@@ -1,14 +1,18 @@
 {
   "name": "jwt-login-app",
-  "version": "0.0.0",
-  "description": "jwt-login-app",
-  "main": "app.js",
-  "author": {
-    "name": ""
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "eslint": "^8.21.0"
-  },
-  "eslintConfig": {
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2"
   }
 }
